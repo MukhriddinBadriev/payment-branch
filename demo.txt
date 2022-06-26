@@ -1,2 +1,3 @@
 salom
 Yandex metrika
+Google analytics
